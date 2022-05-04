@@ -8,6 +8,7 @@ setuptools.setup(
   author='YTY',
   author_email='xodud9752@gmail.com',
   url='https://github.com/TAEYOUNGY00N/Calc0504/',
+  download_url=' ',
   install_requires=['pytest'],
   long_description='my_calc YTY',
   long_description_content_type='text/markdown',
