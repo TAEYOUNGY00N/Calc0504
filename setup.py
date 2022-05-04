@@ -13,7 +13,7 @@ setuptools.setup(
   long_description='my_calc YTY',
   long_description_content_type='text/markdown',
   classifiers=[
-    "Programming Language :: Python :: 3",
+    "Programmming Language :: Python :: 3",
     "Operating System :: OS Independent",
   ],
 )
